@@ -1,5 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        int pbq = 1;
+
+        int ph = 2;
+
+        int x = pbq + ph;
+
+        System.out.println(x);
     }
 }

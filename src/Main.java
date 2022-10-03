@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int pbq = 1;
+        int pbq = 4;
 
         int ph = 2;
 

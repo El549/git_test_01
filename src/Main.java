@@ -5,7 +5,9 @@ public class Main {
 
         int ph = 9;
 
-        int x = pbq + ph;
+        int lhy = 10;
+
+        int x = pbq + ph + lhy;
 
         System.out.println("可恶的 "+x);
     }

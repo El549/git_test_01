@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        int pbq = 2020;
+        int pbq = 20;
 
         int ph = 9;
 

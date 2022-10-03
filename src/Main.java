@@ -1,11 +1,14 @@
 public class Main {
     public static void main(String[] args) {
-        int pbq = 4;
 
-        int ph = 99999;
-        int ph ='hahhahaha';
-        int x = pbq + ph;
+        int pbq = 2020;
 
-        System.out.println(x);
+        int ph = 9;
+
+        int lhy = 10;
+
+        int x = pbq + ph + lhy;
+
+        System.out.println("可恶的 "+x);
     }
 }

@@ -3,7 +3,7 @@ public class Main {
 
         int pbq = 20;
 
-        int ph = 9;
+        int ph = 9999;
 
         int lhy = 10;
 

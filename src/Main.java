@@ -6,6 +6,6 @@ public class Main {
 
         int x = pbq + ph;
 
-        System.out.println("可恶的"+x);
+        System.out.println("可恶的 "+x);
     }
 }
